@@ -16,3 +16,4 @@ else if(dice2>dice1){
 else{
     document.querySelector(".headerTitle").innerHTML="Draw!";
 }
+//heyyyy!
